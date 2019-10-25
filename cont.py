@@ -18,11 +18,8 @@ class Person:
         print(self.name)
         
 
-abc=Person(123)
-try:
-    abc.printH()
-except Exception as s:
-    print(s)
+abc=Person(12)
+abc.printH()
     
 
 
