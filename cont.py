@@ -18,7 +18,7 @@ class Person:
         print(self.name)
         
 
-abc=Person(12)
+abc=Person(123)
 abc.printH()
     
 
